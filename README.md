@@ -4,4 +4,6 @@ git status
 
 git commit -m "Criado o arquivo README"
 
-git push origin Master
+git remote add origin nomedoservidor
+
+git push -u origin master
