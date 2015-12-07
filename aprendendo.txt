@@ -1,0 +1,4 @@
+Git init -> Inicializa o git
+Git add <nomedoarquivo> -> adiciona o arquivo no repositorio
+git status -> obtem o status do repositorio
+git commit -m "Seu comentário" -> Dar o commit no repositorio
